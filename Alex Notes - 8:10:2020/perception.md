@@ -1,0 +1,47 @@
+- [[mind]] creates representations of the world for us to act within.
+- [[perception]] is a link between those two things - creating representations and acting.
+- The equation of perception:
+    - Take in stimuli. Process it into [[neural code]] and send over to the brain.
+    - The brain takes in that information, recognizes it with his previous knowledge + environmental and semantic regularities.
+    - All of this soup is constantly boiled in [[Hemholtz's Theory]] and [[bayesian inference]] and voila - you've got perception.
+- How does it do that?
+    - Early phase - in which shapes and objects are extracted from the visual scene. Features, position, orientation, movement etc.
+    - Later phase - in which the shapes and objects are recognized.
+    - Illustrative example of those two cases is a disorder called Visual Agnosia. It's the inability to recognize visual objects, which is neither a function of general intellectual loss nor a loss of basic sensory abilities.
+        - Apperceptive = cannot recognize shapes - deficit of early phase
+        - Associative = cannot recognize complex objects - deficit of late phase?
+    - In detail:
+    - Light energy travels through the retine and **feature extraction** happens.
+    - This forms a primal sketch of the visual field. **Depth information** is then perceived.
+        - Texture gradient - elements tend to appear more closely packed together as the distance from the view increases
+        - Stereopsis - the ability to perceive 3D because two eyes receive slightly different view of the world
+        - Motion parallax - provides 3d information when an object is in motion. As more disant points move they will move more slowly across the retina than closer points
+    - This forms a 2D sketch.
+        - Identifies where various visual features are located relative to the viewer.
+        - Represents only parts of surfaces and does not yet identify how these parts go together to form images of objects in the environment.
+    - Gestalt principles of organizations are applied.
+        - Tries to explain **perceptual organization** - the way elements([[feature detectors]]) are grouped together to form larger objects.
+        - **Heuristics** utilizing [[Hemholtz's Theory]] to explain how objects are grouped together.
+        - (a) Proximity
+        - (b) Similarity
+        - (c) Good continuation
+        - (d) Closure
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fpustota%2Fpmfmx4tM0z.png?alt=media&token=d6105ed3-eb47-4f7b-b1a1-6c0e00069384)
+    - Bake all of this in [[Hemholtz's Theory]]. And voila, we got a 3D model.
+        - Is it applied here or later? Or both?
+    - No the visual world we "see" is organized into patterns that underlie different objects. We now have a 3D model of the visual scene. We must **identify and recognise** these elements now.
+        - Here's were our long-term [[memory]] comes into place. We compare retinal information (of the features of the scene) to those in our memory (+ environmental and semantic context) via [[bayesian inference]] to recognize the object.
+        - To optimize our computational capacity, we also chunk this process (sometimes) into **template model**
+        - How does the process of going from features to objects work? Well, one theory is called **Recognition-by-components**
+            - The object is segmented into a set of basic subobjects
+            - The category of each subobject is classified (there are 36 basic categories called geons)
+
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fpustota%2F5r70OX3xl2.png?alt=media&token=f493caf8-dfa6-4568-aa95-ffbd8bcc1b1b)
+            - Having identified the subobjects out of which the object is composed and their configuration, one recognizes the object as the pattern (see [[neural code]]) composed from these pieces
+
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fpustota%2FsgHgnY8CR2.png?alt=media&token=96a9114b-7f3b-49b0-9080-48f4c964ddd2)
+        - In addition to that, semantic and environmental regularities are taken into consideration.
+            - A tree is likely to be on the field, forest, beach. Unlikely in the living room - **environmental**
+            - A cafe is likely to have comfortable chairs, people, a coffee machine, chatter etc - **semantic**
+- Self notes:
+    - These flow charts don't do the trick? Its way better to understand everything in the form of nodes in a neural network. Because its not a strict flowchart? Everything is impacted by everything.

@@ -1,0 +1,33 @@
+- As we learned in [[ICS - Lecture 1: Introduction to Cognitive Science]], [[mind]] is builds models of the world and enables us to act within it to achieve our goals.
+- [[perception]] is closely linked with the first of those two things - building [[model]]s.
+- I mean, think about it, how are you able to act within a world without perceiving it? Without seeing what is being typed right now on the screen and without being aware of the position of your hands above the keyboard + other 10 things, you wouldn't be able to **ACT** to achieve your goals. In this case - writing about perception.
+- It is a mechanism that both provides a UI for us to act within and presents information that is to be encoded. At all times, it is updating our model of the world on a micro and a micro scale.
+- How does it do it?
+- Well, we already discussed how the [[nervous system]] system operates with the help of [[neurons]] in the [[ICS - Lecture 2: Cognitive Neuroscience]].
+- Perception operates in the same way - it works both [[Bottom-up]] and [[Top-down]]. [[neurons]] take in sensory input from the outside world and then combines it with [[context]](or [[Environment (underrated)]]) and [[memory]] of the person, to process it in the standard fashion of [[neural networks]] dynamics. It always works on updating the model - which is both what you see **now** and what your general model of the world is.
+
+It's all a very complicated and productive [[feedback loop]]
+    - From the physiological point of view, therefore, perception of an object is based on signals representing the object plus signals representing other aspects of the environment and [[feedback signals]] representing prior knowledge of expectations.
+- Okay, that's high level. How does it actually happen?
+    - How light travels into the retina and how it is transformed into neural signals.
+        - Receptors and what/where stuff
+    - How do we perceive depth and surfaces.
+    - How do we perceive (and distinguish between) objects.
+    - Physical and semantical context.
+    - Bayesian inference
+    - Perception & action.
+- We can trace how information travels in the brain spatially and temporally. We can describe the flow of the information for vision.
+- Agnosia. People can not recognize object but can act upon those objects in a meaningful way. Its like brain gets the object but the mind doesnt?
+- Structure of the eye and anatomics - anki
+- Perceiving depth and surfaces - anki
+- Gestalt heuristics - anki
+- Many psychologists believe that humans are specifically prediscposed to identify whole faces, we do not break down the face into features like we do with other objects
+    - **Template theory** (vs Feature Theory)
+    - Specific to FFA?
+    - Yes, you both and prior experiences help you build a template. Features are simpler components of an object. Templates are computationally less intensive.
+- Identity and perception
+- Culture impacts perception
+- How to think about perception?
+- https://www.youtube.com/watch?v=oYp5XuGYqqY 
+    - [[Joscha Bach]] - reality is a giant relational graph X user interface theory
+- High perceptual load. "Looking for a needle in the haystack." Always about perception and basic properties - density of objects in the environment, cognitive load is all about what happens in the head - memory attention etc.

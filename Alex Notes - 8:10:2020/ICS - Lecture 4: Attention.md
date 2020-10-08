@@ -1,0 +1,81 @@
+- [[attention]]
+- [[4E Cognition]]
+- Attention as a process of something that our brain is doing.
+    - The process by which certain information is selected for further processing and other information is discarded
+    - The ability to focus on specific stimuli and locations.
+- Types of attentional processes
+    - Selective attention
+        - paying attention to one thing while ignoring others
+    - Divided attention
+        - Paying attention to more than one thing at a time
+    - Attentional capture
+        - Shift attention to very salient stimuli(loud noice)
+        - Cocktail party phenomenon
+- Types of **visual** attention
+    - Humans are very visual animals - anki and connect somewhere
+    - Overt attention
+        - Shifting attention corresponds with eye movements
+        - Visual scanning
+            - Always overt attention
+            - Movement of eyes from one situation to another. Saccade - small eye movements.
+            - **Eye tracking** is a method that studies overt visual attention.
+            - Causes:
+                - Stimuli salience
+                    - Does it standout? Based on physical properties. Bottom-up.
+                - Meaning and knowledge factors
+                - Task demands - is it relevant for my goals? (action?)
+                - Can you generalize the causes for visual scanning to attention overall? For example thoughts you think etc?
+            - #design [[Programming attention]]
+    - Covert attention
+        - Shifting attention without corresponding eye movements
+        - Very hard to study. Commonly used to pay attention to location.
+        - **Endogenous**
+            - Driven by high-level cognitive processes. Top-down, goal-directed, intentional. 
+        - **Exogenous**
+            - Driven by sensory stimuli, novelty, incindental, bottom-up.
+- There are limits(plural, so not hard-set one limit) to the amount of information in the world that the mind can attend to and process simultaneously.
+    - There would be a huge computational load if we'd process everything silmuntaneously. What if we extended this load via BCIs? How would our #experience by like then? Connect with stuff from chapter one. [[The possibilities of BCIs]].
+    - Good for survival, but not anymore. What other things can we look from this perspective?
+    - [[exam]] #toresearch
+    - Serial bottlenecks
+        - A point in the path from perception to action at which people cannot process all the information in parallel
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fpustota%2FC_mzsulzit.png?alt=media&token=6d84c6ff-80c4-4625-b95c-71f929c315d0)
+        - Both early and late are right. Another instance of soup of [[bayesian inference]]
+
+Both models occur some of the time. It depends on task and type of stimuli.
+
+They overlap.
+            - Early models - broadbent's filter theory & treisman's attentuation model
+                - **Very interesting:** the cocktail party effect doesn't necessarily have to be top-down, we can simply be condition to be familiar to the sound of our names. Be less biased about top-down, however important that is.
+                - Salient words(see visual salience above - generic process?)
+                - Information gets through, its just most of it is very weak, apart from what you pay attention to. They occupy a DEGREE of your attention.
+                - [[Attenuation control]].
+            - Late models - most of incoming stimuli is processed before attention occurs.
+        - {{[[TODO]]}} Anki experiments to understand them better for this chapter. And others?
+- Processing capacity - amount of information a person can handle
+- Perceptual load - relative difficulty of the perceptual task
+    - Low load-  easy to process
+    - High load - harder to process
+    - Harder task reduce attention to task-irrelevant stimuli
+- Cognitive load
+    - Different from perceptual load
+- Cognitive control
+    - The ability to control your cognitive functions (sometimes called "executive functions"), which include attention, memory and other cognitive processes
+- To common ways we DO NOT attend to stimuli
+    - Inattentional blindless
+        - Not noticing something that is clearly there when paying attention to other stimuli
+    - Change blindness
+        - Not noticing changes to stimuli when paying attention to other stimuli. Movie errors for example - people wearing different accessoirs depending on frames.
+- **The binding problem**. How are the sensations combined to create perception?
+    - Treismann has a leading theory on this - Feature Integration Theory.
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fpustota%2FlZYEOxQk3F.png?alt=media&token=eb0b30d7-daa7-484c-83de-8aa406a1529d)
+- Feature search vs conjuntion search as experiment method?
+- Attentional bias towards emotional stimuli.
+    - So, just [[bayesian inference]]?
+- Loss of #information because not paying attention. Or is it #memory encoding thingy as well?
+- Focused attention important in second stage - feature integration. But **not**  first stage?
+- You dont have direct access to retinal information - important to internalize. Obvious, but important.
+- {{[[TODO]]}} Investigate processing styles
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fpustota%2FuC8CohofHr.png?alt=media&token=d1bfa846-9f26-4f84-910e-584974705c10)
+- {{[[TODO]]}} Note down qs from Dainas class.
+- {{[[TODO]]}} Ask a question to Daina - can we have a class in the end where we'd talk about all of the things WE DONT know about the brain - especially high level stuff. Maybe make a map like the video on physics(maybe I can help?)
